@@ -1,0 +1,71 @@
+[
+    {
+        "id":1,
+        "name_product":"Apple watch 9",
+        "category":"Jam tangan",
+        "price":"9.90000",
+        "spesification":[
+            "Warna hitam",
+            "Tahan air"
+        ],
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "main_image":"apple-watch-9.webp",
+        "images":["apple-watch-9.webp","apple-watch-9-1.webp","apple-watch-9-2.webp"]
+    },
+    
+    {
+        "id":2,
+        "name_product":"Mi watch series",
+        "category":"Jam tangan",
+        "price":"2.000000",
+        "spesification":[
+            "Warna hitam",
+            "Tahan air"
+        ],
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "main_image":"mi-watch-series.webp",
+        "images":["mi-watch-series.webp","mi-watch-series-1.jpg","mi-watch-series-2.webp"]
+    },
+    {
+        "id":3,
+        "name_product":"Kemeja Pria Dewasa",
+        "category":"Outfit pria keren",
+        "price":"9.0000",
+        "spesification":[
+            "Bahan terbaik",
+            "Anti kusut"
+        ],
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "main_image":"kemeja-pria.webp",
+        "images":["kemeja-pria.webp","kemeja-pria-1.webp","kemeja-pria-2.webp"]
+    },
+    
+    {
+        "id":4,
+        "name_product":"Kacamata Pria dewasa",
+        "price":"20000",
+        "category":"Kacamata  keren",
+        "spesification":[
+            "Warna hitam",
+            "Tahan debu"
+        ],
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "main_image":"kacamata-pria-keren.webp",
+        "images":["kacamata-pria-keren.webp"]
+    },
+    {
+        "id":5,
+        "name_product":"Sepatu Nike",
+        "category":"Sepatu keren",
+        "price":"200000",
+        "spesification":[
+            "Awet",
+            "Tahan air"
+        ],
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "main_image":"sepatu-nike.webp",
+        "images":["sepatu-nike.webp","sepatu-nike-1.webp","sepatu-nike-2.webp"]
+    }
+
+
+]
